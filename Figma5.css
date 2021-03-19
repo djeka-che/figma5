@@ -23,7 +23,8 @@ header {
 }
 .header-title {
 	display: flex;
-	color: #fff;
+	color: #red;
+	font-size: 20px;
 }
 .header-car {
 	background: #4A90E2;
